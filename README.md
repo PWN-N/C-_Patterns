@@ -6,7 +6,7 @@ This repository contains five beginner-friendly C++ snippets for printing square
 
 ### 1. Square of asterisks
 
-**File:** `square_star_pattern.cpp`  
+**File:** `square_star_pattern.cpp`<br>
 **Method:** `printSquarePattern(n)`
 
 Prints `n` rows, each containing `n` asterisks.
@@ -19,7 +19,7 @@ Prints `n` rows, each containing `n` asterisks.
 
 ### 2. Right-angled triangle of asterisks
 
-**File:** `right_angle_triangle_asterisk_pattern.cpp`  
+**File:** `right_angle_triangle_asterisk_pattern.cpp`<br>
 **Method:** `printRightAngledTrianglePattern(n)`
 
 Each row adds one asterisk, starting with one.
@@ -32,7 +32,7 @@ Each row adds one asterisk, starting with one.
 
 ### 3. Inverted right-angled triangle of asterisks
 
-**File:** `Inverted_Right-angel_triangle_Asterisk_Pattern.cpp`  
+**File:** `Inverted_Right-angel_triangle_Asterisk_Pattern.cpp`<br>
 **Method:** `printInvertedRightAngledTrianglePattern(n)`
 
 Each row has one fewer asterisk than the previous row.
@@ -45,7 +45,7 @@ Each row has one fewer asterisk than the previous row.
 
 ### 4. Right-angled triangle repeating the row number
 
-**File:** `right_angled_number_triangle.cpp`  
+**File:** `right_angled_number_triangle.cpp`<br>
 **Method:** `printRightAngledNumberTriangle(n)`
 
 Each row repeats its row number.
@@ -58,7 +58,7 @@ Each row repeats its row number.
 
 ### 5. Right-angled triangle of column numbers
 
-**File:** `right_angle_triangle_with_column_numbers.cpp`  
+**File:** `right_angle_triangle_with_column_numbers.cpp`<br>
 **Method:** `printTriangle(n)`
 
 Each row prints numbers from `1` up to that row number.
